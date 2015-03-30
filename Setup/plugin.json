@@ -1,0 +1,7 @@
+{
+    "title": "Form loader",
+    "version": "1.00",
+    "name": "FormLoader",
+    "description": "Show loader while any ImpressPages form is waiting for AJAX response",
+    "author": "ImpressPages"
+}
